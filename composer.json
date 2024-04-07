@@ -1,0 +1,9 @@
+{
+    "name": "gui/php-atividade",
+    "autoload": {
+        "psr-4": {
+            "PhpAtividade\\": "src/"
+        }
+    },
+    "require": {}
+}
